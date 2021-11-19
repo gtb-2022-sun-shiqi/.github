@@ -9,13 +9,12 @@
 
 <u>举个例子</u>
 * 孙世琪 shqios@outlook.com
-    
+  
     > 滑雪网球总之是体验或者各种深度讨论，当然一起工作也 welcome！
 
 ***
 
 ### 接下来是放图片啦 (想知道更多的话可以联系我！）：
-
 <img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/IMG_1984.jpg" alt="memez" style="zoom:50%;" />
 
 
@@ -44,7 +43,7 @@
 
 <img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png" alt="wristz" style="zoom:25%;" />
 
-#### 然而最近觉得浅色的头发更适合我
+#### 然而即使很黑，最近觉得浅色的头发更适合我
 
 \![没有照片]\(可恶啊我的朋友们竟然不爱拍照我的手机里全是别人的照片作为朋友中唯一的摄影人太惨了我也好想要自己的精美写真)
 
@@ -53,6 +52,11 @@
 <img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/gezi.jpg" alt="geziz" style="zoom:25%;" />
 
 
-***
 
 到这里就结束了！我要进行下一个 homework 啦！
+
+
+
+***
+
+看到这里非常感谢！
