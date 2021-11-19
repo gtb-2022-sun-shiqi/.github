@@ -1,7 +1,7 @@
 ## ☀️ Welcome! This is sunshiqi
 
 ### here i am doing the homework in .github/profile/readme.md. 
-### don't really have much to say but for *看到这篇readme的有缘人*
+### don't really have much to say but for *看到这篇 readme 的有缘人*
 
 - 🥳 给大家拜个早年！
 - 🕴 进入魔法世界很开心！正在享受这个搞不懂的游戏👾
