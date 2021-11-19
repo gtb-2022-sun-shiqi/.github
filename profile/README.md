@@ -14,30 +14,37 @@
 ***
 
 ### 接下来是放图片啦 (想知道更多的话可以联系我！）：
-
+<div  align="center">    
 ![meme](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/IMG_1984.jpg)
-
+</div>    
 这是我和我的狗！
+<div  align="center">   
 ![meAndMyDog](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/meanddog.png)
-
+</div>    
 因为实在是太可爱了所以放一个狗子的单狗照
-![dog](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dogeye.jpg))
-
+<div  align="center">   
+![dog-w70](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dogeye.jpg))
+</div>    
 我（的双肢？）和我的网球拍
-![tennis]https://github.com/gtb-2022-sun-shiqi/.github/blob/main/assets/tennis.png)
-
+<div  align="center">   
+![tennis-w70](https://github.com/gtb-2022-sun-shiqi/.github/blob/main/assets/tennis.png)
+</div>    
 这是我在大理（不出意外的话我挺黑的，可能因为黑在云南--以及菲律宾如鱼得水被亲切的当成本地人）
-![shiqisundali](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dali.png)
-
+<div  align="center">   
+![shiqisundali-w70](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dali.png)
+</div>    
 有多黑呢：
-![wrist](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png)
-
+<div  align="center">   
+![wrist-w70](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png)
+</div>    
 然而最近觉得浅色的头发更适合我
+
 \![没有照片]\(可恶啊我的朋友们竟然不爱拍照我的手机里全是别人的照片作为朋友中唯一的摄影人太惨了我也好想要自己的精美写真)
 
 因为开始写代码了，所以放一张格子作为结束
-![gezi](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/gezi.jpg)
-
+<div  align="center">   
+![gezi-w70](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/gezi.jpg)
+</div>    
 
 ***
 
