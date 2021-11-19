@@ -15,7 +15,7 @@
 ***
 
 ### 接下来是放图片啦 (想知道更多的话可以联系我！）：
-<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/IMG_1984.jpg" alt="memez" style="zoom:50%;" />
+<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/IMG_1984.jpg" width="400px" align=center />
 
 
 
@@ -41,7 +41,7 @@
 
 #### 有多黑呢：
 
-<div align=center><img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png" width="300px" />
+<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png" width="300px" />
 
 #### 然而即使很黑，最近觉得浅色的头发更适合我
 
