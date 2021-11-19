@@ -37,11 +37,11 @@
 
 （不出意外的话我挺黑的，可能因为黑在云南--以及菲律宾如鱼得水被亲切的当成本地人）
 
-<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dali.png" alt="shiqisundaliw" style="zoom:25%;" />
+<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dali.png" width="300px" />
 
 #### 有多黑呢：
 
-<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png" alt="wristz" style="zoom:25%;" />
+<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.png" width="300px" />
 
 #### 然而即使很黑，最近觉得浅色的头发更适合我
 
@@ -49,7 +49,7 @@
 
 #### 因为开始写代码了，所以放一张格子作为结束
 
-<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/gezi.jpg" alt="geziz" style="zoom:25%;" />
+<img src="https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/gezi.jpg" width="300px" />
 
 
 
