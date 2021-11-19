@@ -18,16 +18,26 @@
 ![meme](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/IMG_1984.jpg)
 
 这是我和我的狗！
-![meAndMyDog](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/IMG_7770.HEIC)
+![meAndMyDog](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/meanddog.jpg)
 
-我（的四肢？）和我的网球拍
-https://github.com/gtb-2022-sun-shiqi/.github/blob/main/assets/IMG_7770.HEIC
+因为实在是太可爱了所以放一个狗子的单狗照
+![dog](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dogeye.jpg))
 
-这是我3年前在菲律宾（不出意外的话我挺黑的，可能因为黑在菲律宾如鱼得水被亲切的当成本地人）
-![shiqisunPhilippines](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/2019-02-02%20181857.jpg)
+我（的双肢？）和我的网球拍
+![tennis]https://github.com/gtb-2022-sun-shiqi/.github/blob/main/assets/IMG_7499.jpg)
+
+这是我在大理（不出意外的话我挺黑的，可能因为黑在云南--以及菲律宾如鱼得水被亲切的当成本地人）
+![shiqisundali](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/dali.jpg)
+
+有多黑呢：
+![wrist](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/wrist.jpg)
 
 然而最近觉得浅色的头发更适合我
-![没有照片](可恶啊我的朋友们竟然不爱拍照我的手机里全是别人的照片作为朋友中唯一的摄影人太惨了我也好想要自己的精美写真)
+\![没有照片](可恶啊我的朋友们竟然不爱拍照我的手机里全是别人的照片作为朋友中唯一的摄影人太惨了我也好想要自己的精美写真)
+
+因为开始写代码了，所以放一张格子作为结束
+![gezi](https://github.com/gtb-2022-sun-shiqi/.github/raw/main/assets/gezi.jpg)
+
 
 ***
 
